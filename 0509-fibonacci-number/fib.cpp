@@ -14,3 +14,4 @@ public:
         return F;
     }
 };
+ //其实可以写成 else if和else的形式！
